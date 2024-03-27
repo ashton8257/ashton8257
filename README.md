@@ -1,13 +1,9 @@
-# Ashton Mactavish
-### This is my GitHub README.
+## Hello!
+### Welcome to my GitHub.
+- I'm currently doing a software engineering course using Python.
+- I also have a little experience using other languages like MATLAB and HTML.
 
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://i.pinimg.com/originals/12/53/1e/12531e0475545976e249eb6eca919b51.gif">
- <source media="(prefers-color-scheme: light)" srcset="https://i.pinimg.com/originals/12/53/1e/12531e0475545976e249eb6eca919b51.gif">
- <img alt="Hello!" src="https://i.pinimg.com/originals/12/53/1e/12531e0475545976e249eb6eca919b51.gif">
-</picture>
-
-Here is some code:
+Here is some example code:
 ```
 print("Hello World!")
 ```
