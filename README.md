@@ -1,12 +1,8 @@
 ## Hello!
 ### Welcome to my GitHub.
 - I'm currently doing a software engineering course using Python.
-- I also have a little experience using other languages like MATLAB and HTML.
+- I also have experience using HTML, CSS, Django, and SQL.
 
-Here is some example code:
-```
-print("Hello World!")
-```
 
 <!--
 **ashton8257/ashton8257** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
