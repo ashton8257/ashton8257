@@ -1,6 +1,6 @@
 ## Hello!
 ### Welcome to my GitHub.
-- I'm currently doing a software engineering course using Python.
+- I have recently completed a software engineering course using Python.
 - I also have experience using HTML, CSS, Django, and SQL.
 
 
